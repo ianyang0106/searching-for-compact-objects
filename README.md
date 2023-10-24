@@ -8,3 +8,5 @@ Lomb-Scargle Algorithm:
 TheJoker: https://thejoker.readthedocs.io/en/latest/  
 AstroARIANDNE: https://github.com/jvines/astroARIADNE  
 isochrones: https://isochrones.readthedocs.io/en/latest/  
+The codes are based on this paper : https://iopscience.iop.org/article/10.3847/1538-3881/acc389  
+
