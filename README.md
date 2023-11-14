@@ -1,4 +1,4 @@
-# Searching-for-compact-objects1
+# Searching-for-compact-objects
 Here are some python codes used to search for compact objects using LAMOST data.  
 The pakages being used here are listed below:  
 Astropy: https://www.astropy.org/    
