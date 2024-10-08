@@ -1,5 +1,5 @@
 # Searching-for-compact-objects
-Here are some python codes used to search for compact objects using LAMOST data.  
+Python scripts used to search for compact objects candidates using LAMOST data.  
 The pakages being used here are listed below:  
 Astropy: https://www.astropy.org/    
 Lomb-Scargle Algorithm:      
